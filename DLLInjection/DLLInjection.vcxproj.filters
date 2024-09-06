@@ -15,6 +15,9 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="env_test.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
     <ClCompile Include="HookMain.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
