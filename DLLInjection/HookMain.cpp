@@ -33,4 +33,5 @@ void main() {
 	HookStop();
 
 	FreeLibrary(hDll);
+
 }
